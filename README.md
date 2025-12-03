@@ -1,6 +1,5 @@
-# project amazon-app
 
-| Preview |
+| project amazon-app |
 |--------|
 | <img width="275" height="183" src="https://github.com/user-attachments/assets/17b4d5fc-3b39-4fed-894e-8fa3e5911784" /> |
 
