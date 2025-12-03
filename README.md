@@ -1,5 +1,9 @@
-# project amazon-app 
-<img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/17b4d5fc-3b39-4fed-894e-8fa3e5911784" />
+# project amazon-app
+
+<p align="center">
+  <img width="275" height="183" src="https://github.com/user-attachments/assets/17b4d5fc-3b39-4fed-894e-8fa3e5911784" />
+  <img width="275" height="183" src="https://github.com/user-attachments/assets/17b4d5fc-3b39-4fed-894e-8fa3e5911784" />
+</p>
 
 
 ## Tech Stack:
